@@ -1,32 +1,80 @@
-Hey, I’m Connor.
+ATS Resume Tailoring Tool
 
-I’m building an ATS-optimized resume tailoring tool.
+Built by Connor Bethel.
 
-The goal is simple: help people tailor their resumes to a specific job description in a way that actually performs well with Applicant Tracking Systems — not just “sounds good.”
+This is an ATS-focused resume tailoring system designed to align resumes with specific job descriptions and evaluate their competitiveness from both an automated and employer-facing perspective.
 
-The tool works in two stages:
+About
 
-First, it tailors your resume to better align with the job description — keywords, phrasing, structure, relevance.
+I built this tool to approach resume tailoring more strategically.
 
-Then it runs a second pass.
+Instead of just inserting keywords, the system performs dual-sided analysis:
 
-After tailoring, the system evaluates the resume from the perspective of an employer and generates a score out of 100. Not just based on keyword density, but on clarity, alignment, and overall competitiveness.
-
-I call it dual-sided tailoring:
-
-Optimize for the ATS
+Optimize for ATS parsing
 
 Evaluate like a hiring manager
 
-Right now:
+The goal is to improve resume alignment in a way that holds up beyond automated filters.
 
-Anyone gets one free use
+How It Works
+
+Stage 1: ATS Optimization
+
+Aligns resume content with job description keywords
+
+Refines phrasing for relevance
+
+Strengthens measurable impact statements
+
+Adjusts structure for better parsing
+
+Stage 2: Employer Evaluation
+After tailoring, the system evaluates the resume and generates:
+
+A score out of 100
+
+Alignment feedback
+
+Clarity assessment
+
+Weakness detection
+
+This is designed to balance keyword optimization with real-world readability.
+
+Access Model
+
+One free use per user
 
 No signup required
 
-Paste your resume + the job description and get a tailored version with a score
+Input: resume + job description
 
-I’m trying to upgrade the resume tailoring space for good.
-Less keyword stuffing. More strategic alignment.
+Output: tailored resume + score
 
-Still early. Still refining the scoring system. Still improving accuracy every week.
+The free use is intentional — I want people to try it without friction.
+
+Tech Stack
+
+JavaScript
+
+Python
+
+API-based AI processing
+
+Iterative scoring logic
+
+Current Focus
+
+I’m actively refining:
+
+Scoring accuracy
+
+Employer-side evaluation logic
+
+Over-optimization detection
+
+Cost sustainability
+
+Early stage. Continuously improving.
+
+— Connor Bethel
