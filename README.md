@@ -1,48 +1,32 @@
-# 👋 Hey, I’m Connor — Founder of JobHustler
+Hey, I’m Connor.
 
-I’m a solo founder building **JobHustler**, a tool designed to help people get noticed in the job market without wasting hours on repetitive work.
+I’m building an ATS-optimized resume tailoring tool.
 
-Job searching is already stressful enough — my goal is to make it faster, clearer, and more human.
+The goal is simple: help people tailor their resumes to a specific job description in a way that actually performs well with Applicant Tracking Systems — not just “sounds good.”
 
----
+The tool works in two stages:
 
-## 🚀 What I’m Building
+First, it tailors your resume to better align with the job description — keywords, phrasing, structure, relevance.
 
-**JobHustler** helps users:
-- Match resumes to job descriptions
-- Generate tailored follow-up emails and thank-you letters
-- Track applications and outreach
-- Spend less time applying and more time landing interviews
+Then it runs a second pass.
 
-I focus on shipping early, listening to users, and improving fast.
+After tailoring, the system evaluates the resume from the perspective of an employer and generates a score out of 100. Not just based on keyword density, but on clarity, alignment, and overall competitiveness.
 
----
+I call it dual-sided tailoring:
 
-## 🛠 Tech & Tools
-- JavaScript / Python
-- APIs & automation
-- AI-assisted workflows
-- Rapid prototyping (Replit, GitHub, cloud tools)
+Optimize for the ATS
 
----
+Evaluate like a hiring manager
 
-## 🌱 Current Focus
-- Improving lead quality & outreach
-- Refining onboarding and pricing
-- Gathering feedback from real users
-- Building in public and learning fast
+Right now:
 
----
+Anyone gets one free use
 
-## 🔗 Links
-- Website: https://jobhustler.org
-- Indie Hackers / X / Product pages (coming soon)
+No signup required
 
----
+Paste your resume + the job description and get a tailored version with a score
 
-## 🤝 Open to
-- Feedback
-- Collaborations
-- Conversations with other founders
+I’m trying to upgrade the resume tailoring space for good.
+Less keyword stuffing. More strategic alignment.
 
-If you’re building something or thinking about starting — you’re not alone.
+Still early. Still refining the scoring system. Still improving accuracy every week.
