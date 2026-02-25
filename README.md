@@ -1,80 +1,68 @@
-ATS Resume Tailoring Tool
+# ATS Resume Tailoring Tool
 
 Built by Connor Bethel.
 
-This is an ATS-focused resume tailoring system designed to align resumes with specific job descriptions and evaluate their competitiveness from both an automated and employer-facing perspective.
+An ATS-focused resume tailoring system designed to align resumes with specific job descriptions and evaluate their competitiveness from both an automated and employer-facing perspective.
 
-About
+---
+
+## About
 
 I built this tool to approach resume tailoring more strategically.
 
 Instead of just inserting keywords, the system performs dual-sided analysis:
-
-Optimize for ATS parsing
-
-Evaluate like a hiring manager
+- Optimize for ATS parsing
+- Evaluate like a hiring manager
 
 The goal is to improve resume alignment in a way that holds up beyond automated filters.
 
-How It Works
+---
 
-Stage 1: ATS Optimization
+## How It Works
 
-Aligns resume content with job description keywords
+### Stage 1: ATS Optimization
+- Aligns resume content with job description keywords
+- Refines phrasing for relevance
+- Strengthens measurable impact statements
+- Adjusts structure for better parsing
 
-Refines phrasing for relevance
-
-Strengthens measurable impact statements
-
-Adjusts structure for better parsing
-
-Stage 2: Employer Evaluation
+### Stage 2: Employer Evaluation
 After tailoring, the system evaluates the resume and generates:
+- A score out of 100
+- Alignment feedback
+- Clarity assessment
+- Weakness detection
 
-A score out of 100
+This balances keyword optimization with real-world readability.
 
-Alignment feedback
+---
 
-Clarity assessment
+## Access Model
 
-Weakness detection
+- One free use per user
+- No signup required
+- Input: resume + job description
+- Output: tailored resume + score
 
-This is designed to balance keyword optimization with real-world readability.
+The free use is intentional. I want people to try it without friction.
 
-Access Model
+---
 
-One free use per user
+## Tech Stack
 
-No signup required
+- JavaScript
+- Python
+- API-based AI processing
+- Iterative scoring logic
 
-Input: resume + job description
+---
 
-Output: tailored resume + score
-
-The free use is intentional — I want people to try it without friction.
-
-Tech Stack
-
-JavaScript
-
-Python
-
-API-based AI processing
-
-Iterative scoring logic
-
-Current Focus
+## Current Focus
 
 I’m actively refining:
-
-Scoring accuracy
-
-Employer-side evaluation logic
-
-Over-optimization detection
-
-Cost sustainability
+- Scoring accuracy
+- Employer-side evaluation logic
+- Over-optimization detection
+- Cost sustainability
 
 Early stage. Continuously improving.
-
-— Connor Bethel
